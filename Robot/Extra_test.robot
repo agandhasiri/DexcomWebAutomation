@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation    This file contains web automation test case
+Documentation    In this I used single robot to test web site Login
 
 Library     SeleniumLibrary
 
